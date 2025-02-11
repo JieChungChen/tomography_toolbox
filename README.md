@@ -1,2 +1,5 @@
-# tomography_toolbox
-use pytorch to accelerate algorithms related to x-ray tomography, including Radon transform, FBP, etc.
+# Tomography Toolbox
+
+## How to use?
+
+`radon_gpu`: apply radon transform to image with eqaul width and height, gpu acceleration available.
